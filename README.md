@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/023_prashant" target="blank"><img src="https://img.shields.io/twitter/follow/023_prashant?logo=twitter&style=for-the-badge" alt="023_prashant" /></a> </p>
 
-- 🔭 I’m currently working on [wedding website](http://13.127.45.130/)
-
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on [Turbopack](https://github.com/vercel/turbo)
 
