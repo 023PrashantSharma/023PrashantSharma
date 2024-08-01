@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [NextJS](https://github.com/vercel/next.js/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@sharmaprashant](https://hashnode.com/@sharmaprashant)
+- 📝 I regularly write articles on [dev.to](https://dev.to/023prashantsharma)
 
 - 💬 Ask me about **JavaScript,ReactJS,NextJS,NodeJS,MongoDB,MySql**
 
